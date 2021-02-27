@@ -34,7 +34,15 @@ Other features include:
 
 **Note**: to draw a shape you need to press the `Draw shape` button, it must also be pressed when you are going to draw with a brush or pencil.
 
-In general, everything is based on the `Composite` pattern.
+In general, everything is based on the `Composite`, `Prototype` and `Visitor` patterns.
+
+<details>
+  <summary>Class Diagram</summary>
+<p align="center">
+    <img src="img/diagram.png" alt="Class Diagram">
+</p>
+</details>
+
 
 ## Example of project performance
 
